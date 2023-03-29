@@ -59,7 +59,7 @@ form.addEventListener("submit", (e) => {
         const errFunc = function () {
           errorEl.classList.add("hidden");
         };
-        const sss = setTimeout(errFunc, 2000);
+        const sss = setTimeout(errFunc, 4000);
       }
     });
 
